@@ -1,4 +1,4 @@
-# Battle Ship ❤️
+# Battle Ship
 This program is designed for `STM32L476RGTx` microcontrollers and implements a version of the "Battleship" game, leveraging both the LCD display for graphical output and UART for input and interaction with the user. The game consists of two main components: the LCD display that shows the game's state and allows the player to position their ship, and the UART interface that enables the opponent (or the player) to guess the ship's location by issuing commands.
 
 # **How the Game Works:**
